@@ -11,6 +11,6 @@ Currently you are only able to enter in Breakfast, Lunch, and Dinner.
 
 
 Future improvements: 
-I want to expand the amount of meals you can add  to includes snacks. \n
-I also am going to add a menu option so that you can go back and add foods to certain meals. \n
+I want to expand the amount of meals you can add  to includes snacks. 
+I also am going to add a menu option so that you can go back and add foods to certain meals. 
 I also want to add graphics. 
