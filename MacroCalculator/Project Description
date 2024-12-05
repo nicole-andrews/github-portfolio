@@ -1,15 +1,7 @@
 Macro Calculator 
 ------------------------
-I am very into fitness and working out, so I decided to create a macro calculator in order to calculate how many macros I eat each day.
+As someone passionate about fitness and nutrition, I decided to create a personalized macro calculator to help track my daily intake of macronutrients—carbohydrates, protein, fat, and calories. This project allows users to input the amount of grams consumed for specific foods, providing accurate macro calculations tailored to their diet.
 
-The Macros I am tracking are Cabrs, Protein, Fat, and Calories.  
+I utilized a dataset from Kaggle containing information on high-protein foods and designed the tool to allow users to add their own foods, making it adaptable to individual preferences and dietary needs. Currently, the calculator supports tracking for three meals: breakfast, lunch, and dinner.
 
-You are able to put in the amount of grams you have consumed of that food in order for the calculation to be more accurate. 
-I used a data set found on Kaggle that has a lot of high protein foods on it, but you are also able to add your own food to the list so it can be more personalized. 
-
-Currently you are only able to enter in Breakfast, Lunch, and Dinner. 
-
-
-Future improvements: 
-I want to expand the amount of meals you can add  to includes snacks. 
-I also am going to add a menu option so that you can go back and add foods to certain meals. 
+Looking ahead, I plan to enhance the tool by expanding the number of meals to include snacks, adding a menu navigation option to enable users to edit or update their entries, and incorporating visually engaging graphics for a more user-friendly experience. This project reflects my enthusiasm for fitness and my ability to leverage technology to create practical, impactful solutions.
